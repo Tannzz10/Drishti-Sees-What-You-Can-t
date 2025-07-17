@@ -1,0 +1,21 @@
+[
+    {
+        "id":1,
+        "title":"AI-Powered Early Detection",
+        "pic":"/images/image.png",
+        "content":"Drishti analyzes voice tone, typing behavior, and interaction patterns to identify early signs of stress, anxiety, or depression — before users even realize it themselves."
+    },
+    {
+         "id":2,
+      "title":"Hyper-Personalized Support",
+      "pic":"/images/PHQ.png",
+      "content":"Drishti Combines behavior analysis with PHQ-9 and GAD-7 tools to deliver personalized meditation, counseling, and peer support. "
+    },
+    {
+         "id":3,
+      "title":"Emotionally Aware Interaction",
+      "pic":"/images/context.png",
+      "content":"Unlike static apps, Drishti responds with empathy using sentiment-aware prompts and nudges, creating a safe, emotionally intelligent space for users."
+    }
+
+]
